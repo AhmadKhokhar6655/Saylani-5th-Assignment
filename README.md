@@ -1,3 +1,5 @@
 # Saylani-5th-Assignment
 
-In this assignment a make a website of a smart kitchen
+In this assignment make a website for a smart kitchen
+
+
