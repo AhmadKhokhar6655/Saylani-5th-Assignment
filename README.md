@@ -2,6 +2,8 @@
 
 In this assignment I made a website for a Smart Kitchen, I used CSS in this project
 
+This is totally responsive website
+
 This assignment has three pages
 
 1-  Home Page
